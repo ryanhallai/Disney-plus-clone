@@ -1,0 +1,111 @@
+/* Cabeçalho */
+
+header {
+	background: #090b13;
+	padding-bottom: 1em;
+}
+
+body {
+	background: url('../img/2022.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logo__cabecalho {
+	position: absolute;
+	width: 99px;
+	height: 42px;
+	left: 32px;
+	top: 14px;
+}
+
+.item__lista {
+	display: inline-block;
+	margin: 1em 1em;
+}
+
+.itens__cabecalho {
+	margin: 0.7em 0 0 13em;
+	display: inline-block;
+}
+
+.ancora__lista {
+	text-decoration: none;
+	color: white;
+	font-family: 'Roboto';
+	font-weight: 700;
+	font-size: 13px;
+	letter-spacing: 1.42px;
+}
+
+.icone__lista {
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	margin-right: 0.5em;
+}
+
+.botao__header {
+	text-decoration: none;
+	color: white;
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 15px;
+	letter-spacing: 1.8px;
+	margin-left: 32em;
+	padding: 0.8em 3em;
+	border: 1px solid #f9f9f9;
+	border-radius: 4px;
+}
+/* Cabeçalho */
+
+/* ------------------------- */
+
+/* Corpo */
+.imagem__corpo {
+	width: 570px;
+	height: 132.17px;
+	margin: 10em auto 0 auto;
+	display: flex;
+}
+
+.botao__corpo {
+	text-decoration: none;
+	color: #f9f9f9;
+	padding: 1em 11.5em;
+	font-family: 'Roboto';
+	font-size: 18px;
+	font-weight: 700;
+	border: 1px solid black;
+	background: #0063e5;
+	border-radius: 4px;
+	position: absolute;
+	text-align: center;
+	margin-left: 500px;
+	margin-top: 1em;
+	letter-spacing: 1.5px;
+}
+
+.texto__corpo {
+	font-family: 'Poppins';
+	font-size: 16px;
+	letter-spacing: 1.5px;
+	line-height: 24px;
+	color: white;
+	text-align: center;
+	font-weight: 700;
+	max-width: 570px;
+	position: absolute;
+	display: flex;
+	margin-left: 500px;
+	margin-top: 6em;
+}
+
+.imagem2__corpo {
+	position: absolute;
+	width: 570px;
+	height: 32.22px;
+	left: 497px;
+	margin-top: 12em;
+}
+/* Corpo */

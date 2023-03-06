@@ -1,0 +1,163 @@
+/* Cabeçalho */
+
+header {
+	background: #090b13;
+	margin-bottom: 1em;
+}
+.container__cabecalho {
+	padding-bottom: 1em;
+}
+
+body {
+	background: url('../img/2022.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logo__cabecalho {
+	position: absolute;
+	width: 99px;
+	height: 42px;
+	left: 32px;
+	top: 14px;
+}
+
+.item__lista {
+	display: inline-block;
+	margin: 1em 1em;
+}
+
+.itens__cabecalho {
+	margin: 0.7em 0 0 13em;
+	display: inline-block;
+}
+
+.ancora__lista {
+	text-decoration: none;
+	color: white;
+	font-family: 'Roboto';
+	font-weight: 700;
+	font-size: 13px;
+	letter-spacing: 1.42px;
+}
+
+.icone__lista {
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	margin-right: 0.5em;
+}
+
+.botao__header {
+	text-decoration: none;
+	color: white;
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 15px;
+	letter-spacing: 1.8px;
+	margin-left: 32em;
+	padding: 0.8em 3em;
+	border: 1px solid #f9f9f9;
+	border-radius: 4px;
+}
+
+/* Cabeçalho */
+
+/* ------------------ */
+
+/* Corpo */
+
+.disney-meio {
+	margin-top: 2em;
+	position: absolute;
+}
+
+.botoes {
+	margin-left: 9em;
+	position: relative;
+	top: 200px;
+}
+
+.ancora__botao-play,
+.ancora__botao-trailer {
+	text-decoration: none;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+
+.ancora__botao-play {
+	background: #efefef;
+	border-radius: 4px;
+	color: black;
+	padding: 1.2em 1.2em;
+}
+
+.ancora__botao-trailer {
+	background: rgba(0, 0, 0, 0.3);
+	border: 1px solid #f9f9f9;
+	border-radius: 4px;
+	color: #f9f9f9;
+	padding: 1.2em 1.4em;
+	margin-left: 1.2em;
+}
+
+.play__botao {
+	position: relative;
+	top: 12px;
+}
+
+.img__botao {
+	border: 2px solid #ffffff;
+	border-radius: 503px;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+.mais {
+	position: relative;
+	padding: 0.8em;
+	top: 20px;
+	margin-left: 1em;
+}
+
+.grupo {
+	padding: 0.2em;
+	position: relative;
+	top: 20px;
+	margin-left: 1em;
+}
+
+.descricao {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 18px;
+	color: #f9f9f9;
+	position: absolute;
+	width: 262px;
+	height: 18px;
+	left: 145px;
+	top: 397px;
+}
+
+.texto-descricao {
+	position: absolute;
+	width: 709px;
+	height: 84px;
+	left: 145px;
+	top: 433px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+	color: #f9f9f9;
+}
+
+/* Corpo */
